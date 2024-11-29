@@ -1,12 +1,14 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 
 # Ignore auto-generated VS/MD/Consulo/JetBrains Rider project files
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+AssetStoreTools*
 
 # Avoid ignoring asset meta data files
 !/[Aa]ssets/**/*.meta
